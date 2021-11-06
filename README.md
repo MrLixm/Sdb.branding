@@ -6,6 +6,8 @@
 
 This repository strores all the graphic design resources used by the server.
 
+![logo](.\brand\header\twitter\v0002\SdB.header.twitter.master.png)
+
 ### Contributors :
 
 - Liam Collod
