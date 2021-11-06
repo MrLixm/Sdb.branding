@@ -4,9 +4,9 @@
 
 `La Salle de briefing` is a *french discord server* around the Ubisoft's game **Rainbow Six Siege**.
 
-This repository strores all the graphic design resources used by the server.
+This repository stores all the graphic design resources used by the server.
 
-![logo](.\brand\header\twitter\variantB\SdB.header.twitter.master.png)
+![logo](./brand/header/twitter/variantB/SdB.header.twitter.master.png)
 
 ### Contributors :
 
