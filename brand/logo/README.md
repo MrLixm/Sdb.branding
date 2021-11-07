@@ -20,3 +20,8 @@ similar to variant A but animated
 
 .gif and .mp4 available
 
+## variant D
+
+similar to variant C with a different look
+
+.gif, .mp4 and .mov available
